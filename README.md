@@ -21,4 +21,5 @@ It covers LAN and WAN design, routing, switching, and security services.
 
 ## 📄 Report
 See the full project report here: [DevoirInerReseau.pdf](./DevoirInerReseau.pdf)
-Import project 
+Import project here : (./mini-projet.pkt)
+ 
