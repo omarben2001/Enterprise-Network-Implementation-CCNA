@@ -20,6 +20,7 @@ It covers LAN and WAN design, routing, switching, and security services.
 - Verified connectivity between enterprise hosts and external networks  
 
 ## 📄 Report
-See the full project report here: [DevoirInerReseau.pdf](./DevoirInerReseau.pdf)
-Import project here : (./mini-projet.pkt)
- 
+📘 [Full Project Report (PDF)](./DevoirInerReseau.pdf)  
+
+## 🖥️ Packet Tracer File
+💾 [Download the Project File (.pkt)](./mini-projet.pkt)
